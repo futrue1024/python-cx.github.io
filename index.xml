@@ -6,10 +6,22 @@
     <description>Recent content on 小陈的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 18 Apr 2020 17:26:24 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 09:26:24 +0800</lastBuildDate>
     
 	<atom:link href="http://python-cx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何使用hugo部署博客</title>
+      <link>http://python-cx.github.io/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 20 Apr 2020 09:26:24 +0800</pubDate>
+      
+      <guid>http://python-cx.github.io/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2/</guid>
+      <description>hugo搭建博客 hugo是静态网站生成器，能够作为一些展示类网站的解决方案。比如个人博客、产品介绍、个人作品展示、文档介绍、公司官网等等。再加上Github Pages的功能，就能不花一分钱建一个自己的网站了。   下载安装hugo hugo下载链接 选择对应版本进行下载并解压。
+  将文件路径添加到path 复制hugo文件夹的绝对路径并将其添加到PATH(打开bash终端，输入给git version检查是否有版本号，有版本号则添加成功)
+  git
+  </description>
+    </item>
     
     <item>
       <title>开博大吉</title>
