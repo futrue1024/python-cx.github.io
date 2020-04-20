@@ -29,7 +29,7 @@
       <description>hugo搭建博客 hugo是静态网站生成器，能够作为一些展示类网站的解决方案。比如个人博客、产品介绍、个人作品展示、文档介绍、公司官网等等。再加上Github Pages的功能，就能不花一分钱建一个自己的网站了。
   下载安装hugo hugo下载链接 选择对应版本进行下载并解压。
   将文件路径添加到path 复制hugo文件夹的绝对路径 将hugo路径添加到PATH 打开bash终端，输入给git version检查是否有版本号，有版本号则添加成功。
-  进入Hugo官网点击Quick Start，打开本地终端操作step2到step7步骤。   将Hugo博客与GithubPage关联 进入public，创建本地仓库 在github中创建&#39;你的用户名.github.io&#39;的仓库，并将http地址添加到config.toml文件，修改你自己喜欢的博客名及博客语言，最后连接远程仓库提交public。 找到github仓库中的setting，进入找到Github Pages，在1选择branch master，点击2即可看到部署的博客。 q
+  进入Hugo官网点击Quick Start，打开本地终端操作step2到step7步骤。   将Hugo博客与GithubPage关联 进入public，创建本地仓库 在github中创建&#39;你的用户名.github.io&#39;的仓库，并将http地址添加到config.toml文件，修改你自己喜欢的博客名及博客语言，最后连接远程仓库提交public。 找到github仓库中的setting，进入找到Github Pages，在1选择branch master，点击2即可看到部署的博客。
   </description>
     </item>
     
